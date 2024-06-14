@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libhash-lib.so -o libhash-lib.so CMakeFiles/hash-lib.dir/hash.c.o  -lssl -lcrypto 

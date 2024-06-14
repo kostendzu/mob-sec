@@ -1,0 +1,3 @@
+/home/ghotsfed/HomeTask/mobile/jni/CMakeFiles/hash-lib.dir
+/home/ghotsfed/HomeTask/mobile/jni/CMakeFiles/edit_cache.dir
+/home/ghotsfed/HomeTask/mobile/jni/CMakeFiles/rebuild_cache.dir
